@@ -7,7 +7,7 @@
   ],
   "description": "sample application",
   "main": [
-    "bin/index.js",
+    "bin/index.js"
   ],
   "moduleType": [
     "es6"
